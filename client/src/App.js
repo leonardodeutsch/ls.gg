@@ -49,7 +49,7 @@ class App extends React.Component {
         <Search />
       </div>
     );
-  } 
+  }
 }
 
 export default App;
